@@ -1,0 +1,77 @@
+.content{
+    position: absolute;
+    width: 671px;
+    height: 155px;
+    left: 528px;
+    top: 100px;
+
+    background: #FFFFFF;
+    border: 3px solid #5C95E3;
+    border-radius: 15px;
+}
+
+.form{
+    position: absolute;
+    width: 601px;
+    height: 128px;
+    left: 60px;
+    top: 15px;
+}
+.form textarea{
+    width: 570px;
+    height: 36px;
+    left: 13px;
+    padding-bottom: 50px;
+    border: none;
+    outline: none;
+    
+}
+.text{
+    position: absolute;
+    width: 570px;
+    
+    left: 1px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.btnGeo{
+    position: absolute;
+    width: 25.62px;
+    height: 25px;
+    left: 381px;
+    top: 87px;
+}
+
+.btnImg{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 424px;
+    top: 87px;
+}
+
+.btnPublicar{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 39px;
+    gap: 10px;
+
+    position: absolute;
+    width: 132px;
+    height: 40px;
+    left: 468px;
+    top: 80px;
+
+    background: #5C95E3;
+    box-shadow: 0px 10px 20px rgba(87, 144, 223, 0.5);
+    border-radius: 50px;
+}
